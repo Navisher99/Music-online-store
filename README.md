@@ -1,7 +1,7 @@
 # Music-online-store
-It was a PHP base online store
+It is a PHP base online store
 
-If someone could please help with those line in Navbar, that would be a great help, thank you
+If someone could please help me to remove those line in Navbar, that would be a great help, thank you
 <img width="1115" alt="image" src="https://user-images.githubusercontent.com/93440352/182585435-85f7465d-0794-44a9-8020-b856032c4971.png">
 
 
