@@ -146,7 +146,9 @@ if(isset($_POST['email']) and isset($_POST['password'])){
 
 	
 
-<nav class="navbar  navbar-expand-lg navbarfixed-top navbar-dark ">
+<nav class="navbar  navbar-expand-lg navbarfixed-top navbar-dark bg-primary">
+
+
 <a href="Bootstrap Index.php" class="navbar-brand">  <img src="img/images.jfif" height="50px"> </a>
 
 
